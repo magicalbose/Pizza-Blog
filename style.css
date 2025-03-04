@@ -1,0 +1,23 @@
+#topnavigation{
+    background-color:greenyellow ;
+    padding: 20px;
+    text-align: center;
+    position: sticky;
+    top:10px;
+    left:20px;
+
+}
+#header{
+ background-color: royalblue;
+ color: midnightblue;
+ padding: 45px;
+}
+#bottomcontact {
+    background-color: lime;
+padding: 10px;
+width: 200px;
+right: 20px;
+top:50%;
+position: fixed;
+text-align: center;
+}
